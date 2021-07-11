@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liao02x&hide=html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=liao02x&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **liao02x/liao02x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
